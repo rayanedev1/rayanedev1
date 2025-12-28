@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00979D;">rayane_dev</span></h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00979D&height=200&section=header&text=%7BHELLO%20CODERS%7D&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=200&section=header&text=%7BHELLO%20CODERS%7D&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;Python+%7C+Arduino+C%2B%2B+%7C+Web+Dev;Bridging+Hardware+and+Software;From+Morocco+🇲🇦&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;Python+%7C+Arduino+C%2B%2B+%7C+Web+Dev;Bridging+Hardware+and+Software;From+Morocco+🇲🇦&center=true&width=600&height=45&color=32CD32">
 </p>
 
 ---
@@ -60,9 +60,9 @@ hardware sensing & digital visualization
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00979D&height=5" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=32CD32&height=5" />
 </p>
 
 <p align="center">
-  💙 <i>Crafting intelligent systems from silicon to screen</i>
+  💚 <i>Crafting intelligent systems from silicon to screen</i>
 </p>
